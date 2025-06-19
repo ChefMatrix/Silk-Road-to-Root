@@ -3,7 +3,7 @@ Silk Road to Root is my personal journey into the world of ethical hacking and r
 
 ## 🚩 Categories:
 - [Learning](./Learning/) – Contains walkthroughts, notes, and progress tracking thorugh various website such as HTB, THM, TCM, and etc.
-- [Bug Bounties](./Bug Bounties/) – Write-ups and reports for VDPs and BBPs.
+- [Bug_Bounties](./Bug Bounties/) – Write-ups and reports for VDPs and BBPs.
 - [Roadmap](./Roadmap/) – Roadmap of my personal development including goals, and rough timeline of my future.
 
 > “Document everything. If it’s not written, it didn’t happen.”
