@@ -34,5 +34,5 @@ Whether you're just starting out or 5 years deep, **documenting your micro-learn
 
 ---
 
-> 🧠 _“If it’s not written, it didn’t happen.”_  
-> – Every professional pentester ever
+>  _“If it’s not written, it didn’t happen.”_  
+
