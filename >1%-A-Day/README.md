@@ -28,9 +28,9 @@ Inside each file:
 
 ## 💡 Why This Exists
 
-In cybersecurity, details matter — and memory fades. This log keeps me accountable, tracks my growth, and helps others who are learning too.
+In cybersecurity, details matter, and memory fades. This log keeps me accountable, tracks my growth, and helps others who are learning too.
 
-Whether you're just starting out or 5 years deep, **documenting your micro-learnings builds exponential knowledge**.
+**documenting your micro-learnings builds exponential knowledge**.
 
 ---
 
