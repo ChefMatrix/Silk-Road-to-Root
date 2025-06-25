@@ -6,7 +6,7 @@ Silk Road to Root is my personal journey into the world of ethical hacking and r
 
 ## 🚩 Categories:
 
-- [1percent-a-day/](./1percent-a-day) – A commitment to improve at least 1% daily by learning, practicing, or documenting something new in cybersecurity, IT, or networking.  
+- [>1%-A-Day/](./>1%-A-Day) – A commitment to improve at least 1% daily by learning, practicing, or documenting something new in cybersecurity, IT, or networking.  
   Each entry is atomic and focused.
 - [Learning/](./Learning) – Contains walkthroughs, notes, and progress tracking through various platforms such as HTB, THM, TCM, etc.
 - [Bug_Bounties/](./Bug_Bounties) – Write-ups and reports for VDPs and BBPs.
