@@ -11,7 +11,7 @@ Even if it's a small command, a new tool, or a concept I revisited — if I lear
 
 | 🔢 ID | 📘 Topic                            | 🗓️ Date       | 🏷️ Tags                       |
 |------|-------------------------------------|---------------|-------------------------------|
-| 0001 | TEST                                | 2025-06-25    | TEST                          |
+| NET001 | [Subnetting](./Networking/NET001-Subnetting.md)                     | 16-06-2025    | #Subnetting #Networking #IPv4 |
 <!-- Add new entries below as needed -->
 
 ---
@@ -21,7 +21,6 @@ Even if it's a small command, a new tool, or a concept I revisited — if I lear
 Inside each file:
 - **What I Learned**
 - **Hands-On Practice**
-- **Takeaways**
 - **References or Resources**
 
 ---
