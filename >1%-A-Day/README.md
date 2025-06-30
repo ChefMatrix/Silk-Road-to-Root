@@ -12,6 +12,7 @@ Even if it's a small command, a new tool, or a concept I revisited — if I lear
 | 🔢 ID | 📘 Topic                            | 🗓️ Date       | 🏷️ Tags                       |
 |------|-------------------------------------|---------------|-------------------------------|
 | NET001 | [Subnetting](./Networking/NET001-Subnetting.md)                     | 16-06-2025    | #Subnetting #Networking #IPv4 |
+| NET002 | [Kerberos](./Networking/NET002-Kerberos.md)                         | 01-07-2025    | #Kerberos #Networking |
 <!-- Add new entries below as needed -->
 
 ---
