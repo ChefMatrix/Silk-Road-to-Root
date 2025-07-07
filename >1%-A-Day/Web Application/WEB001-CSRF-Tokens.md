@@ -1,11 +1,11 @@
 ---
-ID: WEB01
+ID: WEB001
 Date: 07/07/2025
 Tags: #csrf #webapp #tokens
 Category: Web Application
 ---
 
-# WEB01 – CSRF Tokens
+# WEB001 – CSRF Tokens
 
 ## 🧠 What I Learned
 
