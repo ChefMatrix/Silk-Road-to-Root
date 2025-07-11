@@ -1,6 +1,6 @@
 ---
 ID: WEB002
-Date: 2025-06-29
+Date: 09/07/2025
 Tags: #http #smuggling #websecurity #burp
 Category: Web Application
 ---
