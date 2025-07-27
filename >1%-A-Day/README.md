@@ -18,6 +18,7 @@ Even if it's a small command, a new tool, or a concept I revisited — if I lear
 | NET004 | [ARP Spoofing](./Networking/NET004-ARP_Spoofing.md)                 | 08-07-2025    | #ARP_Spoofing #Networking |
 | WEB002 | [HTTP Smuggling](./Web%20Application/WEB002-HTTP-Smuggling.md)      | 09-07-2025    | #HTTP_Smuggling #WebApp |
 | LIX001 | [File Permissions](./Linux/LIX001-File-Permissions.md)              | 11-07-2025    | #linux #permissions |
+| WEB003 | [Clickjacking](./Web%20Application/WEB003-Clickjacking.md)          | 27-07-2025    | #WebApp #Jacking #Headers |
 <!-- Add new entries below as needed -->
 
 ---
