@@ -20,7 +20,7 @@ Even if it's a small command, a new tool, or a concept I revisited — if I lear
 | LIX001 | [File Permissions](./Linux/LIX001-File-Permissions.md)              | 11-07-2025    | #linux #permissions |
 | WEB003 | [Clickjacking](./Web%20Application/WEB003-Clickjacking.md)          | 27-07-2025    | #WebApp #Jacking #Headers |
 | LIX002 | [SUID Binaries](./Linux/LIX002-SUID-Binaraies.md)                   | 28-07-2025    | #linux #suid #privesc #filepermissions |
-| rec001 | [Nmap Timing & Stealth](./Reconnaissance/REC001-Nmap-Timing.md)     | 30-07-2025    | #recon #stealth #timing |
+| REC001 | [Nmap Timing & Stealth](./Reconnaissance/REC001-Nmap-Timing.md)     | 30-07-2025    | #recon #stealth #timing |
 <!-- Add new entries below as needed -->
  
 ---
