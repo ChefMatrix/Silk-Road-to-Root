@@ -23,6 +23,7 @@ Even if it's a small command, a new tool, or a concept I revisited — if I lear
 | REC001 | [Nmap Timing & Stealth](./Reconnaissance/REC001-Nmap-Timing.md)     | 30-07-2025    | #recon #stealth #timing |
 | REC002 | [Netcat Basics](./Reconnaissance/REC002-Netcat-basics.md)           | 04-08-2025    | #netcat #reverse-shell #recon |
 | LIX003 | [Writable Cronjobs](./Linux/LIX003-Writable-Cronjobs.md)            | 07-08-2025    | #linux #privesc #cron |
+| LIX004 | [Writable Cronjobs](./Linux/LIX004-Checking-Sudo-Permissions.md)    | 21-09-2025    | #linux #sudo #postexploit #enumeration |
 <!-- Add new entries below as needed -->
 
 ---
